@@ -5,7 +5,7 @@ CS Software Development Student
 -------------------------------
 
 I´ve started a Higher Diploma in Computer Science at Dublin Business School in March 2024.
-Learning, coding, testing, adjusting, testing, learning...
+<br>Learning, coding, testing, adjusting, testing, learning...
 
 *   🌍  I'm based in Dublin
 *   ✉️  You can contact me at [viniciussano31@gmail.com](mailto:viniciussano31@gmail.com)
