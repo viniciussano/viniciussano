@@ -9,7 +9,7 @@ I´ve started a Higher Diploma in Computer Science at Dublin Business School in 
 
 *   🌍  I'm based in Dublin
 *   ✉️  You can contact me at [viniciussano31@gmail.com](mailto:viniciussano31@gmail.com)
-*   🧠  I'm learning C#/HTML/CSS/JavaScript/Relational Databases (SQL).
+*   🧠  I'm learning C#/React/HTML/CSS/JavaScript/Relational Databases (SQL).
 *   🤝  I'm open to collaborating on anything that build and solidify my knowledge.
 
 ### Skills 
